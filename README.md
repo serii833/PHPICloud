@@ -17,6 +17,7 @@ Very basic functionality for Apple ICloud services:
 
 <br/>
 ##### Example:
+
 ```php
 $icloud = new PHPICloud\PHPICloud('apple_id', 'pass');
 
